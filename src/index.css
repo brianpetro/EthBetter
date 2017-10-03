@@ -1,0 +1,11 @@
+body {
+  font-family: 'Roboto';
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.headerBar {
+  background-color: #BDBDBD;
+  padding-left: 10px;
+}
